@@ -1,1 +1,1 @@
-#very basic chat app with websockets
+# Very basic chat app with websockets
